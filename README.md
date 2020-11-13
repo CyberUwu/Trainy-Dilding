@@ -14,3 +14,5 @@ videla did nothing wrong /s
 cambio desde github desktop
 
 prueba privado
+
+prueba linux
