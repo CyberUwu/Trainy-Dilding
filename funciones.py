@@ -19,10 +19,12 @@ def recibirCode(mensaje,prefijo, codeViejo):
                     if z == len(array): 
                         textoEnviar += array[z]
                     textoEnviar += ', ' + array[z]
+                    textoEnviar = '```' + textoEnviar + '```'
         else:
             array = re.findall(rf'({prefijo}[0-9][0-9]+.*)', mensaje)
             print(array)
             textoEnviar = array[0]
+            textoEnviar = '```' + textoEnviar + '```'
         # else:
         #     try:    
         #         code = re.findall(rf'.*({prefijo}[0-9]+[a-z][0-9]+)',mensaje)
