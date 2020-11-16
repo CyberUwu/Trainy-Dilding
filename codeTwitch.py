@@ -36,6 +36,7 @@ diccionarioStreamer = apiTwitch.diccionarioStreamer
 cantidadCanales = len(diccionarioStreamer)
 inactivos = list()
 streamersActivos = list()
+codeArray = list()
 
 mensajeViejo = ''
 
@@ -108,9 +109,11 @@ while True:
                 if type(codesNuevos) == int: continue
                 print('hay code muchachos!')
                 try:
-                    if codigoEnviado==codesNuevos: continue
+                    if codigoEnviado == codesNuevos: continue
                     codigoEnviado=codesNuevos
                     creacionBot.mandarMensaje(codesNuevos,'CyberBot')
+                    
+                    
                 except:
                     print(1)
     except:

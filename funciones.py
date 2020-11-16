@@ -1,7 +1,7 @@
 import re
 def recibirCode(mensaje,prefijo, codeViejo):
     textoEnviar = ''
-    if re.search(rf'inframe15',mensaje) or re.search(rf'doom13',mensaje) or re.search(rf'doom12',mensaje):
+    if re.search(rf'inframe15',mensaje) or re.search(rf'doom13',mensaje) or re.search(rf'doom12',mensaje)or re.search(rf'lucaslauriente10',mensaje):
         textoEnviar = codeViejo
         print('ENTRO AL IF DE FUNCIONES')
         return(textoEnviar)
