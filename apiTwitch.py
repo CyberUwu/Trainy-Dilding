@@ -11,7 +11,7 @@ import requests
 import json
 
 diccionarioStreamer = [("inframe15", "inframe"),("agusbob", "agusbob"),("bgiulietti", "belula"),("bibaboy", "bibaboy"),("theblackjackgm", "thegm"),("bstrdd", "bstrdd"),("jizakude", "jizakude"),("candexnegri", "candenegri"),("capiow", "capiowo"),
-                       ("ifa7ali7i", "fatality"),("Micadeboe", "micadeboe"),("Cawelag", "cawelag"),("coloradaxx", "coloradaxx"),("elpibecs1", "elpibecs"),("erivillalva", "erivilla"),("Facubanzas", "facubanzas"),("vini", "v1inidiesel"),
+                       ("ifa7ali7i", "fatality"),("Micadeboe", "micadeboe"),("Cawelag", "cawelag"),("coloradaxx", "coloradaxx"),("elpibecs1", "elpibecs"),("erivillalva", "erivilla"),("Facubanzas", "facubanzas"),("duendepablo", "duendecarlos"),
                        ("Francobertello74", "francobertello74"),("frankkaster", "frankkaster"),("ggnia", "ggnia"),("Godeto", "godeto"),("hastad", "hastad"),("land1nf", "land1n"),("FossyGFX", "foss"),("deercheerup", "deercheerup"),("iberru", "iberru"),
                        ("immortal", "immortal"),("heyitsjoe", "joe"),("IvoXxX", "ivox"),("knut", "knut"),("lajefaok", "lajefa"),("lepajee", "lepajee"),("lucascristalino", "lukaslulo"),("luckraok", "luckra"),("luquitarodriguez", "luquitarodrigue"),
                        ("malaso", "Malaso"),("markitonavaja", "markiton"),("notdoom13", "doom"),("momoladinastia", "momo"),("Nanocs1", "nanocs"),("negrogatuxx", "negrogatux"),("ninhafps", "ninhafps"),("oAdanarg", "oadanarg"),("robergalati", "robertogalati"),
@@ -19,7 +19,7 @@ diccionarioStreamer = [("inframe15", "inframe"),("agusbob", "agusbob"),("bgiulie
                        ("tuli_acosta", "tuliacosta"),("vgorefs", "vgorefs"),("vovo", "vovo"),("vroep", "vroep"),("xandfps", "xandfps"),("xposed", "xposed"),("RiiSki", "riiski"),("Sr_ThuliuM", "thulium"),("nosoynano", "nosoynano"),("frostezor", "frostezor"),
                        ("sksfps1", "sksfps"),("snugtoes", "snugtoes"),("jjuandamoli", "jjuandamoli"),("yungshapez", "shapez"),("Pulmonary0", "pulmonary"),("jasonr", "jasonr"),("att_oficial", "attoficial"),("cyberfocus", "cyberok"),("CABRA_SAFADO", "cabrasafadoxd"),
                        ("m0e_tv", "moe"),("atgoose", "goose"),("apoka", "apoka"),("carlosdleon", "carlosdleon"),("bldcs", "bld"),("juanpolo7l", "juanpolo"),("lucaslauriente10", "lucaslauriente"),("duxontv", "duxontv"),("rnakano", "nak"),("fedaaaa", "fedaaaa"),
-                       ("kiuzinho", "kiuzinho"),("morfiii","morfiii"),("froststrike_lol","froststrike")
+                       ("kiuzinho", "kiuzinho"),("morfiii","morfiii"),("froststrike_lol","froststrike"),('vini','v1nidiesel'), ('648tv','648fps')
 ]
 
 
